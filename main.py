@@ -6,7 +6,7 @@ from tensorflow import keras
 from keras.utils import to_categorical
 from PIL import Image
 import matplotlib.pyplot as plt
-#comentario
+#comentario1
 
 base_dir = "c:/Users/marce/OneDrive/Escritorio/PruebaFactibilidad/gestoss"
 gestos = os.listdir("gestoss") # Lista de carpetas con los nombres de los gestos.
